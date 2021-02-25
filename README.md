@@ -2,7 +2,7 @@
 
 # Github Template
 
-This template is used to create other GitHub repositories used by the college.
+This template is used to create other GitHub repositories used by the college. Please ignore the remainder of this README.
 
 [Documentation](doc/toc.md)
 
