@@ -1,6 +1,6 @@
 ![](https://img.shields.io/static/v1?label=category&message=template&color=red)
 
-# Github Template
+# Github Repo Template
 
 This template is used to create other GitHub repositories used by the college. Please ignore the remainder of this README.
 
@@ -29,8 +29,8 @@ Install the following tools to use this project in your local development enviro
 
 Follow these steps to install this project.
 
-	git clone https://github.com/github-template/github-template.git
-	cd github-template
+	git clone https://github.com/github-repo-template/github-repo-template.git
+	cd github-repo-template
 	npm install
 	npm run watch
 
